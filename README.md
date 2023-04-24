@@ -42,6 +42,3 @@
 
 ![Discord: Coringa"#1533](https://img.shields.io/badge/-Coringa%22%231533-006bed?style=flat-square&logo=Discord&logoColor=white&color=5865F2)
 [![GitHub: PedroLDev]( https://img.shields.io/github/followers/PedroLDev?label=follow&style=social)](https://github.com/PedroLDev)
-
-
-![Snake animation](https://github.com/PedroLDev/PedroLDev/blob/output/github-contribution-grid-snake.svg)
